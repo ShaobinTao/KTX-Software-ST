@@ -17,6 +17,7 @@
  */
 
 #include <assert.h>
+#include <algorithm>
 #include <cstring>
 #include <inttypes.h>
 #include <iostream>
